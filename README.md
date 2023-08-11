@@ -1,1 +1,3 @@
 # Caries-Detection
+
+In this project, we aim to build a machine learning model for the detection of caries in oral images using a convolutional neural network (CNN). We will employ techniques such as data augmentation and regularization to enhance the model's generalization and robustness. By utilizing a dataset containing labeled images of oral scans, we will train and evaluate the model's performance in accurately classifying images as either showing signs of caries or being caries-free. Additionally, we will visualize various aspects of the data and model performance to gain insights into the detection process.
